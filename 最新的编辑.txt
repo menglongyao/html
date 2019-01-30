@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+
+
+<body>
+
+<h1> �ҵĵ�һ������</h1>
+<p> �ҵĵڶ������� </p>
+<p> <h1>�ҵ�ͼƬ</h1></p>
+
+ <img scr = "����.jpg" width ="200" height = "150"> </img>
+
+ </p>
+
+
+</body>
+</html>
